@@ -1,5 +1,5 @@
 Copy the script downbelow
-
+join discord - https://discord.gg/2WzJkxY4th
 
 
 ```lua
