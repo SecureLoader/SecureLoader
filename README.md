@@ -1,6 +1,6 @@
 Copy the script downbelow
 
-join discord for updates - https://discord.gg/2WzJkxY4th 
+join discord for updates - [https://discord.gg/2WzJkxY4th](https://discord.gg/SSJG3nmv6f) 
 
 If you click execute on mobile executer and it dont load click paste and execute or execute from clipboard that works
 
